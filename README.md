@@ -2,7 +2,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/afshal-fatima-309b361a9/)
 
-![A bouncing soccer ball](assets/soccer-ball.gif)
+![A bouncing soccer ball](assets/soccer-ball.svg)
 
 I'm a first-year Computer Engineering student at the University of Waterloo.
 
