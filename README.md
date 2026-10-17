@@ -1,8 +1,4 @@
-# Hey, I'm Afshal!
-
-[LinkedIn](https://www.linkedin.com/in/afshal-fatima-309b361a9/)
-
-![A bouncing soccer ball](assets/soccer-ball.svg)
+# Heyyy, I'm Afshal!
 
 I'm a first-year Computer Engineering student at the University of Waterloo.
 
@@ -13,8 +9,10 @@ I don't find problems to solve, they find me. And I can't seem to leave them alo
 - Trying not to go bald while surviving first-year engineering.
 
 ### My Recent Projects
-- **LoopLearn:** An app that helps students keep track of the questions that humbled them, so they can come back for round two.
-- **[ClockWise](https://www.linkedin.com/company/106967251/):** My creative take on making screen time management a little more fun.
-- **[WaterlooWorks Job Exporter](https://github.com/Abble1/WaterlooWorks-Job-Exporter):** Copy-pasted one too many job descriptions and decided that was enough character development for me.
+- **LoopLearn:** An app that helps students keep track of questions that humbled them, so they can come back for round two.
+- **ClockWise:** My creative take on making screen time management a little more fun.
+- **WaterlooWorks Job Exporter:** Copy-pasted one too many job descriptions into ChatGPT to find the best matches and decided that was enough character development for me.
 
 Outside of coding, I love teaching, playing soccer, and probably spend way too much time on Instagram.
+
+![A bouncing soccer ball](assets/soccer-ball.svg)
