@@ -2,11 +2,11 @@
 
 I'm a first-year Computer Engineering student at the University of Waterloo.
 
-I don't find problems to solve, they find me. And I can't seem to leave them alone. I love building things that solve those annoying little problems nobody really thinks about.
+I don't find problems to solve, they find me. I love building things that solve those annoying little problems nobody really thinks about.
 
 ### Right Now, I'm:
-- Working on error logging firmware with Waterloo Rocketry's Controls team.
-- Trying not to go bald while surviving first-year engineering.
+- Working on error logging for Waterloo Rocketry's Controls team
+- Trying not to go bald while surviving first-year engineering
 
 ### My Recent Projects
 - **LoopLearn:** An app that helps students keep track of questions that humbled them, so they can come back for round two.
