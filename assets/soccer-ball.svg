@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="86" viewBox="0 0 360 86">
+<ellipse cx="24" cy="76" rx="15" ry="3" fill="#9199a1" opacity=".3"><animate attributeName="cx" values="24;336;24" dur="7s" repeatCount="indefinite"/></ellipse>
+<g>
+<animateMotion dur="7s" repeatCount="indefinite" path="M24,61 Q63,17 102,61 T180,61 T258,61 T336,61 T258,61 T180,61 T102,61 T24,61"/>
+<g><animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="1440" dur="7s" repeatCount="indefinite"/>
+<circle cx="0" cy="0" r="17" fill="#fafafa" stroke="#353d43" stroke-width="2"/>
+<polygon points="0,-8 8,-2 5,7 -5,7 -8,-2" fill="#353d43"/>
+<path d="M0,-16V-9 M15,-5L9,-2 M10,13L6,8 M-10,13L-6,8 M-15,-5L-9,-2" stroke="#353d43" stroke-width="2" fill="none"/>
+</g></g></svg>
