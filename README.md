@@ -4,9 +4,9 @@ I'm a first-year Computer Engineering student at the University of Waterloo.
 
 I don't find problems to solve, they find me. I love building things that fix those annoying little problems nobody really thinks about.
 
-#### ✨ Right now, I'm
-
 <img align="right" src="https://media3.giphy.com/media/WvuTFk2IN7jxoLVDkP/giphy.gif" width="145" alt="Animated soccer ball" />
+
+#### ✨ Right now, I'm
 
 - Working on error logging for Waterloo Rocketry's Controls team
 - Trying not to go bald surviving first-year engineering
