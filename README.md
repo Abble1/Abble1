@@ -1,6 +1,6 @@
 # Heyyy, I'm Afshal! 🙆🏼‍♀️🧋
 
-I'm a first-year Comp Eng student at the UWaterloo.
+I'm a first-year Comp Eng student at the University of Waterloo.
 
 I don't find problems to solve, they find me. I love building things that fix those annoying little problems nobody really thinks about.
 
