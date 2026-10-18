@@ -4,7 +4,7 @@ I'm a first-year Computer Engineering student at the University of Waterloo.
 
 I don't find problems to solve, they find me. I love building things that fix those annoying little problems nobody really thinks about.
 
-<img align="right" src="https://media3.giphy.com/media/WvuTFk2IN7jxoLVDkP/giphy.gif" width="145" alt="Animated soccer ball" />
+<img align="right" src="https://media3.giphy.com/media/WvuTFk2IN7jxoLVDkP/giphy.gif" width="145" hspace="18" alt="Animated soccer ball" />
 
 #### ✨ Right now, I'm
 
