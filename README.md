@@ -1,4 +1,4 @@
-# Heyyy, I'm Afshal! 👋🏼🧋
+# Heyyy, I'm Afshal! 🙆🏼‍♀️🧋
 
 I'm a first-year Computer Engineering student at the University of Waterloo.
 
