@@ -17,4 +17,4 @@ I don't find problems to solve, they find me. I love building things that fix th
 - **ClockWise:** My creative take on making screen time management a little more fun.
 - **WaterlooWorks Job Exporter:** Copy-pasted one too many job descriptions into ChatGPT to find the best matches. Decided that was enough character development for me.
 
-Outside of coding, I love teaching, playing soccer, and probably spend way too much time on Instagram.
+Outside of coding, I love teaching, playing soccer, and eating yummy food.
